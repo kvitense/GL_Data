@@ -1,0 +1,19 @@
+Domain,Unique Identifier,Name,Description,Last Change Date
+Vertical Collection Method(VerticalCollectionMethodName),9,Altimetry,The measurement of height or altitude.,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),7,Classical Surveying Techniques,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),80,Digital Elevation Model,Digital Elevation Model (DEM)  is a 3D CG representation of a terrain's surface. which are arrays of regularly spaced elevation values referenced horizontally either to a Universal Transverse Mercator (UTM) projection or to a geographic coordinate system.,6/19/2018 8:21:58 AM
+Vertical Collection Method(VerticalCollectionMethodName),2,GPS Carrier Phase Kinematic Relative Position,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),1,GPS Carrier Phase Static Relative Position,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),3,GPS Code (Pseudo Range) Differential,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),4,GPS Code (Pseudo Range) Precise Position,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),5,GPS Code (Pseudo Range) Standard Position (SA Off),,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),6,GPS Code (Pseudo Range) Standard Position (SA On),,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),11,Leveling-Non Bench Mark Control Points,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),16,Light Detection And Ranging (LiDAR),A surveying method that measures distance to a target by illuminating the target with laser light and measuring the reflected light with a sensor.,6/6/2016 10:45:00 AM
+Vertical Collection Method(VerticalCollectionMethodName),8,Other,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),13,Photogrammetric,"The process of making maps or scale drawings from photographs, especially aerial photography.",8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),10,Precise Leveling-Bench Mark,,8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),14,Topographic Map Interpolation,"The process of drawing contour lines by inferring their plan position and trend from spot levels or from other contours, assuming the intervening ground to have uniform slope.",8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),12,Trigonometric Leveling,The branch of Surveying in which to determine the vertical distance between two points by taking the vertical angular observations and the known distances. The known distances are either assumed to be horizontal or the geodetic lengths at the mean sea level(MSL),8/12/2006 1:17:08 AM
+Vertical Collection Method(VerticalCollectionMethodName),15,Unknown,,10/15/2014 12:00:00 AM
+

@@ -1,0 +1,156 @@
+CharacteristicName,source_parameter
+Alkalinity,Alkalinity
+Alkalinity,"Alkalinity, Bicarbonate as CaCO3"
+Alkalinity,"Alkalinity, Carbonate as CaCO3"
+Alkalinity,"Alkalinity, carbonate"
+Alkalinity,"Alkalinity, total"
+Alkalinity,"Alkalinity, Total as CaCO3_Not applicable"
+Alkalinity,"Alkalinity, Total as CaCO3_Total/Bulk"
+Alkalinity,"Hardness, Total as CaCO3_Total/Bulk"
+"Aluminum, dissolved",Aluminum
+"Aluminum, total",Aluminum
+"Arsenic, dissolved",Arsenate
+"Arsenic, dissolved",Arsenic
+"Arsenic, dissolved",Arsenite
+"Arsenic, total",Arsenic
+"Arsenic, total","Arsenic_Total/Bulk"
+"Atrazine, dissolved",Atrazine
+"Calcium, dissolved",Calcium
+"Calcium, dissolved","Calcium_Filtrate"
+"Calcium, dissolved","Calcium_Total/Bulk"
+"Carbon, dissolved organic",Carbon
+"Carbon, dissolved organic","Carbon, Organic_Filtrate"
+"Carbon, particulate organic","Carbon, Organic_Residue"
+"Carbon, dissolved organic",Organic carbon
+"Carbon, total organic","Carbon, Organic_Total/Bulk"
+"Carbon, total organic",Carbon
+"Carbon, total organic",Organic carbon
+"Carbon, total organic",Total carbon
+"Chloride, dissolved",Chloride
+"Chloride, dissolved",Chloride_Filtrate
+"Chloride, dissolved","Chloride_Total/Bulk"
+Chlorophyll a,Chlorophyll a - Phytoplankton (suspended)
+Chlorophyll a,Chlorophyll a
+Chlorophyll a,"Chlorophyll a, corrected for pheophytin"
+Chlorophyll a,"Chlorophyll a, free of pheophytin"
+Chlorophyll a,"Chlorophyll a, uncorrected for pheophytin"
+Chlorophyll a,Chlorophyll
+Chlorophyll a,"Chlorophyll-a_NA"
+Chlorophyll a,"Chlorophyll-a_Residue"
+Chlorophyll a,"Chlorophyll-a_Total/Bulk"
+"Color, apparent",Apparent color
+"Color, apparent",Color
+"Color, true",True color
+Conductivity,Conductivity
+Conductivity,Conductivity_Not applicable
+Conductivity,"Conductivity_Total/Bulk"
+Conductivity,Specific conductance
+Depth,Depth of water column
+Depth,Depth
+Depth,"Depth, bottom"
+Depth,"Depth, data-logger (non-ported)"
+Depth,"Depth, data-logger (ported)"
+"Phosphorus, soluable reactive orthophosphate",Orthophosphate as P
+"Phosphorus, soluable reactive orthophosphate",Orthophosphate as PO4
+"Phosphorus, soluable reactive orthophosphate",Orthophosphate
+"Phosphorus, soluable reactive orthophosphate",Phosphate-phosphorus as P
+"Phosphorus, soluable reactive orthophosphate",Phosphate-phosphorus
+"Phosphorus, soluable reactive orthophosphate",Phosphorus
+"Nitrogen, total dissolved Kjeldahl",Kjeldahl nitrogen
+E. coli,Escherichia coli
+E. coli,Escherichia
+E. coli-CFU,Escherichia coli
+E. coli-CFU,Escherichia
+E. coli-MPN,Escherichia coli
+E. coli-MPN,Escherichia
+"Magnesium, dissolved",Magnesium
+"Magnesium, dissolved",Magnesium_Filtrate
+"Magnesium, dissolved",Magnesium_Total/Bulk
+"Manganese, dissolved",Manganese_Total/Bulk
+"Manganese, dissolved",Manganese_Filtrate
+"Mercury, dissolved",Mercury
+"Mercury, total",Mercury
+"Methylmercury, dissolved",Methylmercury(1+)
+Microcystin,Microcystin LA
+Microcystin,Microcystin LF
+Microcystin,Microcystin LR
+Microcystin,Microcystin RR
+Microcystin,Microcystin
+Microcystin,Microcystins
+"Moisture","Moisture content_Total/Bulk"
+"Molybdenum","Molybdenum_Total/Bulk"
+"Nitrogen, NH4",Ammonia-nitrogen as N
+"Nitrogen, NH4",Ammonia-nitrogen
+"Nitrogen, NH4",Ammonia and ammonium
+"Nitrogen, NH4",Ammonia
+"Nitrogen, NH4",Ammonia-Nitrogen_Filtrate
+"Nitrogen, NH4","Ammonia-Nitrogen_Total/Bulk"
+"Nitrogen, NH4",Ammonium-Nitrogen_Filtrate
+"Nitrogen, NH4",Ammonium
+"Nitrogen, nitrite (NO2)",Nitrite as N
+"Nitrogen, nitrite (NO2)",Nitrite
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",Inorganic nitrogen (nitrate and nitrite) as N
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",Inorganic nitrogen (nitrate and nitrite)
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",Nitrate + Nitrite
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",Nitrate
+"Nitrogen, nitrite (NO2) + nitrate (NO3)",Nitrogen
+"Nitrogen, nitrite (NO2) + nitrate (NO3)","Nitrogen, Total Oxidized_Filtrate"
+"Nitrogen, nitrite (NO2) + nitrate (NO3)","Nitrogen, Total Oxidized_Total/Bulk"
+NA,"Nitrogen, Total, Particulate_Residue"
+NA,"Nitrogen, Total, Sediment_Total/Bulk"
+"Oxygen, dissolved",Dissolved oxygen (DO)
+"Oxygen, dissolved",Oxygen
+"Oxygen, dissolved","Oxygen, Dissolved_Filtrate"
+"Oxygen, dissolved","Oxygen, Dissolved_Total/Bulk"
+"pH, equilibrated",pH
+"pH, equilibrated",pH_Not applicable
+"pH, equilibrated",pH_Total/Bulk
+Salinity,Salinity
+Secchi,"Depth, Secchi disk depth (choice list)"
+Secchi,"Depth, Secchi disk depth"
+Secchi,"Secchi Disc Transparency_NA"
+Secchi,"Secchi Disc Transparency_Not applicable"
+"Selenium, dissolved",Selenium
+"Selenium, total",Selenium
+"Selenium, total","Selenium_Total/Bulk"
+"Silica, dissolved",Silica
+"Silica, dissolved",Silicon
+"Silica, dissolved","Silica, Dissolved as Si_Filtrate"
+"Silica, dissolved","Silica, Dissolved as Si_Total/Bulk"
+"Silica, dissolved","Silica, Total_Filtrate"
+"Silica, dissolved","Silicon, Elemental_Filtrate"
+"Sulfate, dissolved",Sulfate
+"Sulfate, dissolved",Sulfur Sulfate
+"Sulfate, dissolved",Sulfur
+"Sodium, dissolved",Sodium_Filtrate
+"Sodium, total",Sodium_Total/Bulk
+"Solids, total suspended",Total dissolved solids
+"Solids, total suspended","Suspended solids, total_Residue"
+"Solids, total suspended",Total solids
+"Solids, total suspended",Total suspended solids
+"Nitrogen, total dissolved","Nitrogen, Total_Filtrate"
+"Nitrogen, total dissolved","Nitrogen, Total_Total/Bulk"
+"Nitrogen, total dissolved",Nitrogen
+"Nitrogen, total dissolved","Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)"
+"Phosphorus, total dissolved",Phosphate-phosphorus
+"Phosphorus, total dissolved",Phosphorus
+"Phosphorus, total particulate","Phosphorus Base Extractable as P_Residue
+"Phosphorus, total dissolved","Phosphorus, Elemental_Filtrate"
+"Phosphorus, reactive dissolved","Phosphorus, Orthophosphorus as P_Filtrate"
+"Phosphorus, total particulate","Phosphorus, Total as P, Particulate_Residue"
+"Phosphorus, total particulate","Phosphorus, Total as P, Sediment_Total/Bulk"
+"Phosphorus, total dissolved","Phosphorus, Total as P_Filtrate"
+"Phosphorus, total dissolved","Phosphorus, Total as P_Total/Bulk"
+"Nitrogen, total Kjeldahl",Kjeldahl nitrogen
+"Nitrogen, total Kjeldahl",Total Kjeldahl nitrogen (Organic N & NH3)
+"Nitrogen, total Kjeldahl",Total Kjeldahl nitrogen
+"Nitrogen, total",Nitrogen
+"Nitrogen, total","Nitrogen, mixed forms (NH3), (NH4), organic, (NO2) and (NO3)"
+"Phosphorus, total",Phosphate-phosphorus
+"Phosphorus, total",Phosphorus
+Temperature,Temperature_Not applicable
+Temperature,Temperature_Total/Bulk
+Turbidity,Turbidity Field
+Turbidity,Turbidity
+Turbidity,Turbidity_Not applicable
+Turbidity,Turbidity_Total/Bulk
