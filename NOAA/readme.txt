@@ -6,3 +6,5 @@ Surface Temp is entered in the same inconsistent ways as Secchi.  This is at the
 The CTD column is just which CTD was used.  It is not always filled in.
 
 Note: Original file name for NOAA_WQ_2024_04_26.xlsx was 'WQ dat_Kelcey.lsx". Column headers were edited for reading into R.
+
+Note that C and N data were corrected in NOA_WQ_2024_04_26_CORRECTED.xlsx based on edits_nutrients_2024-12-13.xlsx file 
