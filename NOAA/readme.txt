@@ -4,3 +4,5 @@ Secchi--this is not entered consistently across years--some years it is listed m
 Surface Temp is entered in the same inconsistent ways as Secchi.  This is at the very surface with a hand held thermometer.  It's pretty sensitive to air temp/solar heating, but is a back up for when the CTD does not work or is not dropped.
 
 The CTD column is just which CTD was used.  It is not always filled in.
+
+Note: Original file name for NOAA_WQ_2024_04_26.xlsx was 'WQ dat_Kelcey.lsx". Column headers were edited for reading into R.
