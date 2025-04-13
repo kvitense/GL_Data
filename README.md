@@ -1,5 +1,5 @@
 # GL_Data
-This is a repository for Great Lakes water quality data corresponding to the GLharmonizeR prototype R package.
+This is a repository for Great Lakes water quality data corresponding to the GLharmonizeR prototype R package. *NOTE: The current name for this repo on GitHub is 'LM_Chla'. It will be renamed to GLharmonizeR.*
 
 Data are publicly available and are not documented extensively here. Files are stored here for convenience and to work with GLharmonizeR (currently in testing phase). See forthcoming GLharmonizeR package documentation for details.
 
